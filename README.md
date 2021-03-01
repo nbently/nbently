@@ -8,7 +8,7 @@ I'm Nick (he/him/his), a web developer / devops / data person. I also contribute
 
 👨🏻‍💻 Things I do: Something new...🌱 | [Makerspace Initiative @ UMD](https://makerspace.umd.edu) | [Dashboards & Analytics @ UMD](https://analytics.umd.edu)
 
-📺 Things I did: [Startup Shell](https://startupshell.org) | [Merus IT Services](https://merus.it)
+📺 Things I did: [Startup Shell](https://startupshell.org) | [Merus IT Services](https://merus.it) | [Terrapin Works](https://terrapinworks.umd.edu)
 
 ---
 
